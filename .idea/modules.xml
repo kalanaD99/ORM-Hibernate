@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Hibernate/Hibernate.iml" filepath="$PROJECT_DIR$/../Hibernate/Hibernate.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM-Basic.iml" filepath="$PROJECT_DIR$/ORM-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SampleCrud/SampleCrud.iml" filepath="$PROJECT_DIR$/../SampleCrud/SampleCrud.iml" />
     </modules>
   </component>
 </project>
